@@ -20,7 +20,7 @@
 	RootModule = 'UMN-HipChat.psm1'
 
 	# Version number of this module.
-	ModuleVersion = '1.0.0'
+	ModuleVersion = '1.0.1'
 
 	# Supported PSEditions
 	# CompatiblePSEditions = @()
@@ -109,7 +109,7 @@
 			# LicenseUri = ''
 
 			# A URL to the main website for this project.
-			# ProjectUri = ''
+			 ProjectUri = 'https://github.com/umn-devex-community/UMN-HipChat'
 
 			# A URL to an icon representing this module.
 			# IconUri = ''
